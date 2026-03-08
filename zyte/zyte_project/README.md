@@ -192,3 +192,6 @@ After execution finishes, the output file will be available at:
     data/books.jl.gz
 
 ------------------------------------------------------------------------
+
+Scrapy Cloud:
+https://app.zyte.com/p/852764/
